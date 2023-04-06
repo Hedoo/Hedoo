@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hedayatullah Hedayat
 - 👀 I’m interested in learning and challenges
-- 🌱 I’m currently learning flutter and react
+- 🌱 I’m currently any thing and everything 
 - 💞️ I’m looking to collaborate nothing
 - 📫 How to reach me ,
 hedayat.uk@gmail.com
