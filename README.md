@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hedayatullah Hedayat
 - 👀 I’m interested in learning and challenges
-- 🌱 I’m currently any thing and everything 
-- 💞️ I’m looking to collaborate nothing
+- 🌱 I’m currently a Full-stack Developer 
+- 💞️ I’m looking to contribute in solving problems
 - 📫 How to reach me ,
 hedayat.uk@gmail.com
 +93797865828
